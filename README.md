@@ -5,11 +5,11 @@
 [下载](https://github.com/i-1213/ZhihuFind/blob/master/com.zhihufind.android.apk)
 
 # 截图
-![ZhihuFind](https://github.com/i-1213/ZhihuFind/tree/master/ZhihuFind/screenshots/find1.png)
-![ZhihuFind](https://github.com/i-1213/RiBao/blob/master/RiBao/screenshots/find2.png)
-![ZhihuFind](https://github.com/i-1213/RiBao/blob/master/RiBao/screenshots/find3.png)
-![ZhihuFind](https://github.com/i-1213/RiBao/blob/master/RiBao/screenshots/find4.png)
-![ZhihuFind](https://github.com/i-1213/RiBao/blob/master/RiBao/screenshots/find5.png)
+![ZhihuFind](https://github.com/i-1213/ZhihuFind/blob/master/screenshots/find1.png)
+![ZhihuFind](https://github.com/i-1213/ZhihuFind/blob/master/screenshots/find2.png)
+![ZhihuFind](https://github.com/i-1213/ZhihuFind/blob/master/screenshots/find3.png)
+![ZhihuFind](https://github.com/i-1213/ZhihuFind/blob/master/screenshots/find4.png)
+![ZhihuFind](https://github.com/i-1213/ZhihuFind/blob/master/screenshots/find5.png)
 
 # 依赖
 - [Square.OkHttp](https://github.com/mattleibow/square-bindings)
